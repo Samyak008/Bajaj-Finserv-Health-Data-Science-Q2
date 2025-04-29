@@ -9,12 +9,14 @@ This project provides an API for extracting and processing lab test data from me
 ## Sample Reports and Results
 
 ### Sample Lab Report
-![Sample lab report](image-1.png)
+![Sample lab report](image.png)
 *Example of a standard blood test report from Department of Pathology*
 
 The system can process various lab report formats and extract structured data including test names, values, and reference ranges.
 
 ### API Processing Results
+![Results](![alt text](image-4.png)
+
 ![API processing results](image-2.png)
 *Terminal output showing successful API requests and structured JSON response*
 
